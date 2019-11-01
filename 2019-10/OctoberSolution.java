@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 
+/**
+ * @author Chad Purdy
+ * @since 11-01-2019
+ */
 
 public class OctoberSolution {
 
