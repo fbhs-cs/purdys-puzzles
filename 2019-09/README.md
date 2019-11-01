@@ -19,8 +19,8 @@ that was encoded with a key of 27.
 [Solution](SOLUTION.md)
 
 ## Puzzle Solvers
-Devin Schwartz
-Alex Billiot
-Aaron Vera
-Anthony Ciardelli
+Devin Schwartz,
+Alex Billiot,
+Aaron Vera,
+Anthony Ciardelli,
 Egor Mikhaylov
