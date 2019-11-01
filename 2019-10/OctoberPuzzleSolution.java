@@ -8,7 +8,7 @@ import java.util.*;
 import java.io.*;
 import static java.lang.System.*;
 import java.math.BigInteger;
-class Test2{
+class OctoberPuzzleSolution{
     public static void main(String [] args){
         Long sum = new Long("0");
         BigInteger startNum = new BigInteger("2");
