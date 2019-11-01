@@ -13,8 +13,9 @@ In 131071, there is only one pair: 3 and 7
 ### Question:
 The 16th Mersenne prime was discovered on October 7, 1952.  It is 2<sup>2203</sup> - 1. How many pairs of its digits sum to 10?
 
+## Solution
 
-## Solvers
+
 ## Puzzle Solvers
 Devin Schwartz,
 Alex Billiot,
