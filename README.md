@@ -5,3 +5,4 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 ## Monthly Puzzles
 * [August/September 2019](./2019-09/README.md) - [Solution](./2019-09/SOLUTION.md)
 * [October 2019](./2019-10/README.md)
+* [November 2019](./2019-11/README.md)
