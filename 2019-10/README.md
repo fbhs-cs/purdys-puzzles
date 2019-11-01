@@ -19,4 +19,5 @@ The 16th Mersenne prime was discovered on October 7, 1952.  It is 2<sup>2203</su
 ## Puzzle Solvers
 Devin Schwartz,
 Alex Billiot,
-Aaron Vera
+Aaron Vera,
+Anthony Ciardelli
