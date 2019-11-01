@@ -4,6 +4,6 @@
 
 This year, Black Friday falls on November 29, ie. 11/29/19.  This is an interesting year because all three parts of the date, 11, 29, and 19 are prime numbers.  The last time this happened was on Black Friday in 2013 (11/29/13).  The next time it will happen will be in 2029 (11/23/29).  In the past twenty years (since 1999), this phenomenon has occurred 4 times.  We will ignore the fact that our current calendar was not created until 1582 and say that the first time this ever occurred was in the year 2 AD (11/29/02).  It also occured in 1607 (11/23/07).  The last time it will happen this millenium will be in 2971 (11/29/71).  
 
-Pretending our current calendar had been in use, how many times, since 2 AD up through the end of this millenium, will all three parts of the date: month/day/last two of year be prime?  
+Pretending our current calendar had been in use, how many times, since 2 AD up through the end of this millenium, will all three parts of the date: month/day/last two of year of Black Friday be prime?  
 
 Note: 0 and 1 are **not** considered prime numbers.
