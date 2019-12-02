@@ -11,5 +11,5 @@ He spends the rest of the day counting bulbs and discovers that in the first tho
 Mr. Purdy's list of all one million bulbs that he hung is in [bulbs.txt](bulbs.txt).  How many clusters of 5 different colors are there in all?
 
 
-## Clarifying "without overlap"
+### Clarifying "without overlap"
 This set of 10 bulbs `RGOPBRGOPB` would only be considered as 2 clusters of five different colors.  
