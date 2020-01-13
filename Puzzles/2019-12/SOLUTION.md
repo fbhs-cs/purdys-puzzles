@@ -13,7 +13,11 @@ According to the problem, we are looking for **all** 5 colors grouped together. 
 3. Repeat step 2 until we get to the end
 
 [Here is my solution](./solutions/my_solution.py)
+
 [Alex Billiot's solution](./solutions/solution.java)
+
 [Devin Schwartz's solution](./solutions/devin_schwartz_sol.py)
+
 [Andres Flores's solution](./solutions/december.java)
+
 [Egor Mikhaylov's solution](./solutions/ClusterCounter.java)
