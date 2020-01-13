@@ -2,7 +2,7 @@
 
 ## Answer: 28300 
 
-### Part 1 Understanding the problem and developing an algorithm
+### The Algorithm
 
 According to the problem, we are looking for **all** 5 colors grouped together.  One way to approach this would be:
 
