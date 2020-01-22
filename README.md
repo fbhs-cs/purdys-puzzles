@@ -17,7 +17,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 |Alex Billiot |    X |     X |     X |     X |    X |
 |Anthony Ciardelli | | X     |       |       |      |
 |Carlos Doble |      |       |    X  |       |    X |
-|Andres Flores|      |  X    |       |       |      |
+|Andres Flores|      |  X    |       |  X    |      |
 |Egor Mikhaylov|     |       |       |  X    |   X  |
 |Devin Schwartz| X   |  X    |  X    |  X    |  X   |
 |Aaron Vera    | X   | X     | X     |  X    |  X   |
