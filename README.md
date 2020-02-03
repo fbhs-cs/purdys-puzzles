@@ -8,6 +8,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 * [November 2019](./Puzzles/2019-11/README.md) - [Solution](./Puzzles/2019-11/SOLUTION.md)
 * [December 2019](./Puzzles/2019-12/README.md) - [Solution](./Puzzles/2019-12/SOLUTION.md)
 * [January 2020](./Puzzles/2020-01/README.md) - [Solution](./Puzzles/2020-01/SOLUTION.md)
+* [February 2020](./Puzzles/2020-02/README.md)
 
 
 
