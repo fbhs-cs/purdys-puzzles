@@ -8,3 +8,18 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 * [November 2019](./Puzzles/2019-11/README.md) - [Solution](./Puzzles/2019-11/SOLUTION.md)
 * [December 2019](./Puzzles/2019-12/README.md) - [Solution](./Puzzles/2019-12/SOLUTION.md)
 * [January 2020](./Puzzles/2020-01/README.md) - [Solution](./Puzzles/2020-01/SOLUTION.md)
+
+
+
+## Monthly Solvers
+
+|     Name    | 9/19 | 10/19 | 11/19 | 12/19 | 1/20 | 
+|:--          |:-:   |:-:    |:-:    |:-:    |:-:   |
+|Alex Billiot |    X |     X |     X |     X |    X |
+|Anthony Ciardelli | | X     |       |       |      |
+|Sean Coggins |      |       |       |       |  X   |
+|Carlos Doble |      |       |    X  |       |    X |
+|Andres Flores|      |  X    |       |  X    |      |
+|Egor Mikhaylov|     |       |       |  X    |   X  |
+|Devin Schwartz| X   |  X    |  X    |  X    |  X   |
+|Aaron Vera    | X   | X     | X     |  X    |  X   |
