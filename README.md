@@ -1,6 +1,9 @@
 # Mr. Purdy's CS Puzzles
 
-This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.  
+This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended. 
+
+## Note:
+Starting with the March Puzzle, a second prize will be awarded at the end of the month for the shortest run-time solution.  In order to qualify, your submission must include code to measure the runtime and correctly display it in seconds, to 3 decimal places.
 
 ## Monthly Puzzles
 * [August/September 2019](./Puzzles/2019-09/README.md) - [Solution](./Puzzles/2019-09/SOLUTION.md)
