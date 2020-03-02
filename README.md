@@ -18,7 +18,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 |     Name    | 9/19 | 10/19 | 11/19 | 12/19 | 1/20 | 2/20 |
 |:--          |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |
 |Alex Billiot |    X |     X |     X |     X |    X |X     |
-|Anthony Ciardelli | | X     |       |       |      |      |
+|Anthony Ciardelli | | X     |       |       |      | X    |
 |Sean Coggins |      |       |       |       |  X   |X     |
 |Carlos Doble |      |       |    X  |       |    X |X     |
 |Andres Flores|      |  X    |       |  X    |      |X     |
