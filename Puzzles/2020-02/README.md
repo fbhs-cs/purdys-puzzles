@@ -8,5 +8,5 @@ For example, the aliquot parts of `12` are `1, 2, 3, 4 and 6`.
 
 For instance, 159, 559, and 703 are equivalent since their aliquot parts all sum to 57.
 
-Find the pair of equivalent numbers, less than 2020, that are farthest apart.
+Find the pair of non-prime equivalent numbers, less than 2020, that are farthest apart.
 
