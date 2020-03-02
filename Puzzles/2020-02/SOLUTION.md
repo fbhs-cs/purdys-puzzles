@@ -25,3 +25,4 @@ Here is [my solution](./solutions/equivalent.py).  Interestingly, a few of the s
 [Devin Schwartz's Solution (Python)](https://repl.it/repls/GrayQuintessentialProprietarysoftware)
 [Anthony Ciardelli's Solution (Python)](./solutions/febpuzzle.py)
 [Aaron Vera's Solution (Python)](./solutions/feb20.py)
+[Carlos Doble's Solution (Python)](./solutions/February_2020_puzzle.py)
