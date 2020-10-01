@@ -2,11 +2,18 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended. 
 
-## Note:
-Starting with the March Puzzle, a second prize will be awarded at the end of the month for the shortest run-time solution.  In order to qualify, your submission must include code to measure the runtime and correctly display it in seconds, to 3 decimal places.
+## 2020 - 2021 Monthly Puzzles
+* [October 2020](./Puzzles/2020-10/README.md)
 
-## Monthly Puzzles
-* [March 2020](./Puzzles/2020-03/README.md)
+## Monthly Solvers 2020-2021
+
+|     Name    | 10/20 | 11/20 | 12/20 | 1/21 | 2/21 | 3/21 | 4/21 | 5/21 |
+|:--          |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
+
+---
+
+## 2019-2020 Puzzles
+* [March 2020](./Puzzles/2020-03/README.md) - Solution
 * [February 2020](./Puzzles/2020-02/README.md) - [Solution](./Puzzles/2020-02/SOLUTION.md)
 * [January 2020](./Puzzles/2020-01/README.md) - [Solution](./Puzzles/2020-01/SOLUTION.md)
 * [December 2019](./Puzzles/2019-12/README.md) - [Solution](./Puzzles/2019-12/SOLUTION.md)
@@ -15,10 +22,7 @@ Starting with the March Puzzle, a second prize will be awarded at the end of the
 * [August/September 2019](./Puzzles/2019-09/README.md) - [Solution](./Puzzles/2019-09/SOLUTION.md)
 
 
-
-
-
-## Monthly Solvers
+## Monthly Solvers 2019-2020
 
 |     Name    | 9/19 | 10/19 | 11/19 | 12/19 | 1/20 | 2/20 |
 |:--          |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |
