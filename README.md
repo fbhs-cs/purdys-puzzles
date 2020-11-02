@@ -3,7 +3,9 @@
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 
 ## 2020 - 2021 Monthly Puzzles
-* [October 2020](./Puzzles/2020-10/README.md)
+* [November 2020](./Puzzles/2020-11/README.md)
+* [October 2020](./Puzzles/2020-10/README.md) - [Solution](.Puzzles/2020-10/SOLUTION.md)
+
 
 ## What to do
 When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.

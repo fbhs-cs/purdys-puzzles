@@ -1,0 +1,1 @@
+[November 2020 Puzzle](./puzzle.txt)
