@@ -14,7 +14,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name    | 10/20 | 11/20 | 12/20 | 1/21 | 2/21 | 3/21 | 4/21 | 5/21 |
 |:--          |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
-| Samuel Zhang | X   |       |       |       |      |      |      |      |
+| Samuel Zhang | X   | X     |       |       |      |      |      |      |
 | Mia Pair    |      | X     |       |       |      |      |      |      |
 
 ---
