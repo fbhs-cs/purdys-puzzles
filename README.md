@@ -17,7 +17,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Samuel Zhang | X   | X     |       |       |      |      |      |      |
 | Mia Pair    |      | X     |       |       |      |      |      |      |
 | Devin Schwartz |   | X     |       |       |      |      |      |      |
-
+| Xander Nguyen |    | X     |       |       |      |      |      |      |
 ---
 
 ## 2019-2020 Puzzles
