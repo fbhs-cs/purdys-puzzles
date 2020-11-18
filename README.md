@@ -18,6 +18,8 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Mia Pair    |      | X     |       |       |      |      |      |      |
 | Devin Schwartz |   | X     |       |       |      |      |      |      |
 | Xander Nguyen |    | X     |       |       |      |      |      |      |
+| Alex Smith |       | X     |       |       |      |      |      |      |
+
 ---
 
 ## 2019-2020 Puzzles
