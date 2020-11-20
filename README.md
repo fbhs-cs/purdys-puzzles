@@ -12,15 +12,16 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 ## Monthly Solvers 2020-2021
 
-|     Name    | 10/20 | 11/20 | 12/20 | 1/21 | 2/21 | 3/21 | 4/21 | 5/21 |
-|:--          |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
-| Samuel Zhang | X   | X     |       |       |      |      |      |      |
-| Mia Pair    |      | X     |       |       |      |      |      |      |
-| Devin Schwartz |   | X     |       |       |      |      |      |      |
-| Xander Nguyen |    | X     |       |       |      |      |      |      |
-| Alex Smith |       | X     |       |       |      |      |      |      |
-| Shane Ciardelli |  | X     |       |       |      |      |      |      |
-| Carlos Doble    |  | X     |       |       |      |      |      |      |
+|     Name          | 10/20 | 11/20 | 12/20 | 1/21 | 2/21 | 3/21 | 4/21 | 5/21 |
+|:--                |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
+| Samuel Zhang      | X   | X     |       |       |      |      |      |      |
+| Mia Pair          |      | X     |       |       |      |      |      |      |
+| Devin Schwartz    |   | X     |       |       |      |      |      |      |
+| Xander Nguyen     |    | X     |       |       |      |      |      |      |
+| Alex Smith        |       | X     |       |       |      |      |      |      |
+| Shane Ciardelli   |  | X     |       |       |      |      |      |      |
+| Carlos Doble      |  | X     |       |       |      |      |      |      |
+| Abigayle Wiginton |  | X     |       |       |      |      |      |      |
 
 
 ---
