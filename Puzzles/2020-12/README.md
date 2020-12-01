@@ -20,4 +20,4 @@ After a successful trial run, Bernard and Santa decide their system seems great,
 
 Bernard's instructions for Corpus Christi are in the [directions](corpus.txt) file. 
 
-What is the sum of the *total* distance that Santa Clause will have  travelled when he finishes delivering all of the presents and the farthest house from Santa's teleporter, to the nearest tenth of a mile?
+For Corpus Christi, what is the **sum** of the *total* distance that Santa Clause will have travelled when he finishes delivering *all* of the presents, and the *farthest* house from Santa's teleporter, to the nearest tenth of a mile?
