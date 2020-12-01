@@ -18,6 +18,6 @@ To test the system, Santa and Bernard decide to try it out in a small neighborho
 
 After a successful trial run, Bernard and Santa decide their system seems great, and decide to go to a larger city (though not too large!)
 
-Bernard's instructions for Corpus Christi are in the [directions](directions.txt) file. 
+Bernard's instructions for Corpus Christi are in the [directions](corpus.txt) file. 
 
 What is the sum of the *total* distance that Santa Clause will have  travelled when he finishes delivering all of the presents and the farthest house from Santa's teleporter, to the nearest tenth of a mile?
