@@ -17,7 +17,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |:--                |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
 | Samuel Zhang      | X   | X     |       |       |      |      |      |      |
 | Mia Pair          |      | X     |       |       |      |      |      |      |
-| Devin Schwartz    |   | X     |       |       |      |      |      |      |
+| Devin Schwartz    |   | X     | X      |       |      |      |      |      |
 | Xander Nguyen     |    | X     |       |       |      |      |      |      |
 | Alex Smith        |       | X     |       |       |      |      |      |      |
 | Shane Ciardelli   |  | X     |       |       |      |      |      |      |
