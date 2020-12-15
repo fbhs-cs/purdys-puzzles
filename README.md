@@ -21,7 +21,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Xander Nguyen     |    | X     |  X     |       |      |      |      |      |
 | Alex Smith        |       | X     |       |       |      |      |      |      |
 | Shane Ciardelli   |  | X     |       |       |      |      |      |      |
-| Carlos Doble      |  | X     |       |       |      |      |      |      |
+| Carlos Doble      |  | X     |  X    |       |      |      |      |      |
 | Abigayle Wiginton |  | X     |       |       |      |      |      |      |
 | Alex Xie          |  | X     |       |       |      |      |      |      |
 
