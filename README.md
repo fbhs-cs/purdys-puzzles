@@ -4,7 +4,7 @@ This is a collection of the monthly puzzles that I usually put up on the chalk b
 
 ## 2020 - 2021 Monthly Puzzles
 * [December 2020](./Puzzles/2020-12/README.md) - [Solution](./Puzzles/2020-12/SOLUTION.md)
-* [November 2020](./Puzzles/2020-11/README.md) - Solution
+* [November 2020](./Puzzles/2020-11/README.md) - [Solution](./Puzzles/2020-11/SOLUTION.md)
 * [October 2020](./Puzzles/2020-10/README.md) - [Solution](./Puzzles/2020-10/SOLUTION.md)
 
 
