@@ -10,4 +10,4 @@ From 1 to 100 there are 30 *horseshoe prime* numbers and 25 *prime* numbers, a r
 
 From 1 to 1,000 there are 288 *horseshoe prime* numbers and 168 *prime* numbers, a ratio of 12:7, or 1.714 hp to p.
 
-What is the ratio, expressed a decimal to 3 decimal places, of horseshoe primes to primes between 1 and 1,000,000?
+What is the ratio, expressed as a decimal to 3 decimal places, of horseshoe primes to primes between 1 and 1,000,000?
