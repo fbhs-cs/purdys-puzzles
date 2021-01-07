@@ -6,6 +6,8 @@ A number is considered "prime" if it's only factors are 1 and itself.  The first
 
 We will say that a number is "horseshoe prime" if it has exactly two unique prime factors besides itself.  The first few horseshoe prime numbers are 6 (2 and 3 are factors), 10 (2 and 5 are factors), and 15 (3 and 5 are factors).  In fact, 2021 is horseshoe prime!
 
+Note: 4 is *not* horseshoe prime because it's only prime factor is 2.
+
 From 1 to 100 there are 30 *horseshoe prime* numbers and 25 *prime* numbers, a ratio of 6:5, or 1.2 hp to p.  
 
 From 1 to 1,000 there are 288 *horseshoe prime* numbers and 168 *prime* numbers, a ratio of 12:7, or 1.714 hp to p.
