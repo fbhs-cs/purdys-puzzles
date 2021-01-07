@@ -4,7 +4,7 @@
 
 A number is considered "prime" if it's only factors are 1 and itself.  The first few prime numbers are 2, 3, 5, and 7.
 
-We will say that a number is "horseshoe prime" if it has exactly two unique prime factors besides itself.  The first few horseshoe prime numbers are 6 (2 and 3 are factors), 10 (2 and 5 are factors), and 15 (3 and 5 are factors).  In fact, 2021 is horseshoe prime!
+We will say that a number is "horseshoe prime" if it has exactly two unique prime factors besides itself.  The first few horseshoe prime numbers are 6 (2 and 3 are factors), 10 (2 and 5 are factors), 14 (2 and 7 are factors), and 15 (3 and 5 are factors).  In fact, 2021 is horseshoe prime!
 
 Note: 4 is *not* horseshoe prime because it's only prime factor is 2.
 
