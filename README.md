@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 
 ## 2020 - 2021 Monthly Puzzles
-* [January 2021](./Puzzles/2021-01/README.md)
+* [March 2021](./Puzzles/2021-03/README.md)
+* [January 2021](./Puzzles/2021-01/README.md) - [Solution](./Puzzles/2021-01/SOLUTION.md)
 * [December 2020](./Puzzles/2020-12/README.md) - [Solution](./Puzzles/2020-12/SOLUTION.md)
 * [November 2020](./Puzzles/2020-11/README.md) - [Solution](./Puzzles/2020-11/SOLUTION.md)
 * [October 2020](./Puzzles/2020-10/README.md) - [Solution](./Puzzles/2020-10/SOLUTION.md)
@@ -14,17 +15,17 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 ## Monthly Solvers 2020-2021
 
-|     Name          | 10/20 | 11/20 | 12/20 | 1/21 | 2/21 | 3/21 | 4/21 | 5/21 |
-|:--                |:-:   |:-:    |:-:    |:-:    |:-:   |:-:   |:-:   |:-:   |
-| Samuel Zhang      | X    | X     | X     |       |      |      |      |      |
-| Mia Pair          |      | X     |       |       |      |      |      |      |
-| Devin Schwartz    |      | X     | X     |       |      |      |      |      |
-| Xander Nguyen     |      | X     | X     | X     |      |      |      |      |
-| Alex Smith        |      | X     |       |       |      |      |      |      |
-| Shane Ciardelli   |      | X     |       |       |      |      |      |      |
-| Carlos Doble      |      | X     | X     |       |      |      |      |      |
-| Abigayle Wiginton |      | X     |       |       |      |      |      |      |
-| Alex Xie          |      | X     | X     |       |      |      |      |      |
+|     Name          | 10/20 | 11/20 | 12/20 | 1/21 | 3/21 | 4/21 | 5/21 |
+|:--                |:-:   |:-:    |:-:    |:-:    | :-:   |:-:   |:-:   |
+| Samuel Zhang      | X    | X     | X     |  x    |       |      |      |
+| Mia Pair          |      | X     |       |       |       |      |      |
+| Devin Schwartz    |      | X     | X     | x     |       |      |      |
+| Xander Nguyen     |      | X     | X     | X     |       |      |      |
+| Alex Smith        |      | X     |       |       |       |      |      |
+| Shane Ciardelli   |      | X     |       |       |       |      |      |
+| Carlos Doble      |      | X     | X     |       |       |      |      |
+| Abigayle Wiginton |      | X     |       |       |       |      |      |
+| Alex Xie          |      | X     | X     |       |       |      |      |
 
 
 ---
