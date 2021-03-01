@@ -2,7 +2,7 @@
 
 ## Magic Shamrocks
 
-Four-leaf clovers are a rare variation of three-leaf clovers.  About 1 out of every 5,000 three-leaf clovers has four leaves.  Five leaf clovers are even more rare, but they exist.  
+Four-leaf clovers are a rare variation of three-leaf clovers.  About 1 out of every 5,000 three-leaf clovers has four leaves.  Five leaf clovers are even more rare (about 1 out of 20,000), but they exist.  
 
 My uncle Seamus has a shamrock farm.  On that farm he grows three, four, and five-leaf clovers (no other variations are found on his farm).  However, he doesn't keep track of how many individual clovers he has, instead he tracks the number of individual leaves.  At last count, he had exactly 753,184 leaves.  
 
