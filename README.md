@@ -25,7 +25,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Shane Ciardelli   |      | X     |       |       |       |      |      |
 | Carlos Doble      |      | X     | X     |       |       |      |      |
 | Abigayle Wiginton |      | X     |       |       |       |      |      |
-| Alex Xie          |      | X     | X     |       |       |      |      |
+| Alex Xie          |      | X     | X     |       |  X    |      |      |
 
 
 ---
