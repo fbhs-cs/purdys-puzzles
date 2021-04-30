@@ -21,7 +21,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Samuel Zhang      | X    | X     | X     |  x    | X     |      |      |
 | Mia Pair          |      | X     |       |       |       |      |      |
 | Devin Schwartz    |      | X     | X     | x     |  X    |      |      |
-| Xander Nguyen     |      | X     | X     | X     |  X    |      |      |
+| Xander Nguyen     |      | X     | X     | X     |  X    | X    |      |
 | Alex Smith        |      | X     |       |       |       |      |      |
 | Shane Ciardelli   |      | X     |       |       |       |      |      |
 | Carlos Doble      |      | X     | X     |       |       |      |      |
