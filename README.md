@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 
 ## 2020 - 2021 Monthly Puzzles
-* [April 2021](./Puzzles/2021-04/README.md) 
+* [May 2021](./Puzzles/2021-05/README.md)
+* [April 2021](./Puzzles/2021-04/README.md) - [Solution](./Puzzles/2021-04/SOLUTIONS.md)
 * [March 2021](./Puzzles/2021-03/README.md) - [Solution](./Puzzles/2021-03/SOLUTIONS.md)
 * [January 2021](./Puzzles/2021-01/README.md) - [Solution](./Puzzles/2021-01/SOLUTION.md)
 * [December 2020](./Puzzles/2020-12/README.md) - [Solution](./Puzzles/2020-12/SOLUTION.md)
@@ -26,7 +27,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Shane Ciardelli   |      | X     |       |       |       |      |      |
 | Carlos Doble      |      | X     | X     |       |       |      |      |
 | Abigayle Wiginton |      | X     |       |       |       |      |      |
-| Alex Xie          |      | X     | X     |       |  X    |      |      |
+| Alex Xie          |      | X     | X     |       |  X    | X    |      |
 
 
 ---
