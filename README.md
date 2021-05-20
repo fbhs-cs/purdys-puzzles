@@ -23,7 +23,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Mia Pair          |      | X     |       |       |       |      |      |
 | Devin Schwartz    |      | X     | X     | x     |  X    |      |      |
 | Xander Nguyen     |      | X     | X     | X     |  X    | X    |      |
-| Alex Smith        |      | X     |       |       |       |      |      |
+| Alex Smith        |      | X     |       |       |       |      |X     |
 | Shane Ciardelli   |      | X     |       |       |       |      |      |
 | Carlos Doble      |      | X     | X     |       |       |      |      |
 | Abigayle Wiginton |      | X     |       |       |       |      |      |
