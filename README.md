@@ -3,7 +3,7 @@
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 
 ## 2020 - 2021 Monthly Puzzles
-* [May 2021](./Puzzles/2021-05/README.md)
+* [May 2021](./Puzzles/2021-05/README.md) - [Solution](./Puzzles/2021-05/SOLUTION.md)
 * [April 2021](./Puzzles/2021-04/README.md) - [Solution](./Puzzles/2021-04/SOLUTION.md)
 * [March 2021](./Puzzles/2021-03/README.md) - [Solution](./Puzzles/2021-03/SOLUTIONS.md)
 * [January 2021](./Puzzles/2021-01/README.md) - [Solution](./Puzzles/2021-01/SOLUTION.md)
