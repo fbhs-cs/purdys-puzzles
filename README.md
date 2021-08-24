@@ -7,6 +7,13 @@ This is a collection of the monthly puzzles that I usually put up on the chalk b
 ## What to do
 When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
+## Monthly Solvers 2021-2022
+
+|     Name          | 8/21  | 9/21  | 10/21 | 11/21 | 12/21 | 1/22  | 2/22  | 3/22  | 4/22  | 5/22  |
+|:--                |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
+| Robert Clark      | X     |       |       |       |       |       |       |       |       |       |
+
+
 
 
 ## 2020 - 2021 Monthly Puzzles
