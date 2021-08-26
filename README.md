@@ -5,7 +5,7 @@ This is a collection of the monthly puzzles that I usually put up on the chalk b
 [August 2021](./Puzzles/2021-08/README.md)
 
 ## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
 ## Monthly Solvers 2021-2022
 
