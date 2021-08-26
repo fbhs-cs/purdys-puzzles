@@ -1,4 +1,4 @@
-# Mr. Purdy's CS Puzzles
+# Mr. Purdy's Monthly Puzzles
 
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 ## 2021 - 2022 Monthly Puzzles
