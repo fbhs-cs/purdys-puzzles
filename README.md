@@ -15,6 +15,8 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 
 
+---
+## Past Years' Puzzles
 
 ## 2020 - 2021 Monthly Puzzles
 * [May 2021](./Puzzles/2021-05/README.md) - [Solution](./Puzzles/2021-05/SOLUTION.md)
@@ -25,9 +27,6 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 * [November 2020](./Puzzles/2020-11/README.md) - [Solution](./Puzzles/2020-11/SOLUTION.md)
 * [October 2020](./Puzzles/2020-10/README.md) - [Solution](./Puzzles/2020-10/SOLUTION.md)
 
-
-## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
 ## Monthly Solvers 2020-2021
 
