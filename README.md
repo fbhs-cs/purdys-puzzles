@@ -16,6 +16,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
 | Robert Clark     		 | X     | X     | X     | X     |       |       |       |       |       |       |
 | Tristen Corpuz         |       |       |       | X     |       |       |       |       |       |       |
+| Caleb Griffis          |       |       |       | X     |       |       |       |       |       |       |
 | Carson Pape            |       |       |       | X     |       |       |       |       |       |       | 
 | Nathaniel Puumala      |       |       | X     | X     |       |       |       |       |       |       | 
 
