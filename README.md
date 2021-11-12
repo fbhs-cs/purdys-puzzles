@@ -14,7 +14,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/21  | 9/21  | 10/21 | 11/21 | 12/21 | 1/22  | 2/22  | 3/22  | 4/22  | 5/22  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
-| Robert Clark     		 | X     | X     | X     |       |       |       |       |       |       |       |
+| Robert Clark     		 | X     | X     | X     | X     |       |       |       |       |       |       |
 | Tristen Corpuz         |       |       |       | X     |       |       |       |       |       |       |
 | Carson Pape            |       |       |       | X     |       |       |       |       |       |       | 
 | Nathaniel Puumala      |       |       | X     | X     |       |       |       |       |       |       | 
