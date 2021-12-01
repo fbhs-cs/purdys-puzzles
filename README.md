@@ -19,8 +19,8 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Tristen Corpuz         |       |       |       | X     |       |       |       |       |       |       |
 | Caleb Griffis          |       |       |       | X     |       |       |       |       |       |       |
 | Xander Nguyen          |       |       |       | X     |       |       |       |       |       |       |
-| Carson Pape            |       |       |       | X     |       |       |       |       |       |       | 
-| Nathaniel Puumala      |       |       | X     | X     |       |       |       |       |       |       | 
+| Carson Pape            |       |       |       | X     |  X    |       |       |       |       |       | 
+| Nathaniel Puumala      |       |       | X     | X     |  X    |       |       |       |       |       | 
 
 
 
