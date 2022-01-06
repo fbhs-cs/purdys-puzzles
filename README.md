@@ -19,9 +19,10 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Robert Clark     		 | X     | X     | X     | X     | X     |  X    |       |       |       |       |
 | Tristen Corpuz         |       |       |       | X     |       |       |       |       |       |       |
 | Caleb Griffis          |       |       |       | X     |       |       |       |       |       |       |
+| Connor Murphy			 |       |       |       |       | X     |       |       |       |       |       |
 | Xander Nguyen          |       |       |       | X     |       |       |       |       |       |       |
-| Carson Pape            |       |       |       | X     |  X    |       |       |       |       |       | 
-| Nathaniel Puumala      |       |       | X     | X     |  X    |       |       |       |       |       | 
+| Carson Pape            |       |       |       | X     |  X    |   X   |       |       |       |       | 
+| Nathaniel Puumala      |       |       | X     | X     |  X    |   X   |       |       |       |       | 
 | Mason Wendel           |       |       |       |       |  X    |       |       |       |       |       | 
 
 
