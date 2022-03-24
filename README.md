@@ -16,17 +16,17 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 ## Monthly Solvers 2021-2022
 
-|     Name         		 | 8/21  | 9/21  | 10/21 | 11/21 | 12/21 | 1/22  | 2/22  | 3/22  | 4/22  | 5/22  |
-|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
-| Robert Clark     		 | X     | X     | X     | X     | X     |  X    |   X   |       |       |       |
+|     Name         		   | 8/21  | 9/21  | 10/21 | 11/21 | 12/21 | 1/22  | 2/22  | 3/22  | 4/22  | 5/22  |
+|:--               		   |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
+| Robert Clark     		   | X     | X     | X     | X     | X     |  X    |   X   |  X    |       |       |
 | Tristen Corpuz         |       |       |       | X     |       |       |       |       |       |       |
 | Caleb Griffis          |       |       |       | X     |       |  X    |       |       |       |       |
-| Connor Murphy			 |       |       |       |       | X     |       |       |       |       |       |
+| Connor Murphy			     |       |       |       |       | X     |       |       |       |       |       |
 | Xander Nguyen          |       |       |       | X     |       |       |       |       |       |       |
 | Carson Pape            |       |       |       | X     |  X    |   X   |       |       |       |       | 
 | Nathaniel Puumala      |       |       | X     | X     |  X    |   X   |       |       |       |       | 
 | Mason Wendel           |       |       |       |       |  X    |       |       |       |       |       | 
-
+| Lorenzo Viray          |       |       |       |       |  X    |       |       |  X    |       |       | 
 
 
 ---
