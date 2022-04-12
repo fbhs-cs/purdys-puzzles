@@ -27,7 +27,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Carson Pape            |       |       |       | X     |  X    |   X   |       |       |       |       | 
 | Nathaniel Puumala      |       |       | X     | X     |  X    |   X   |       | X     | X     |       | 
 | Mason Wendel           |       |       |       |       |  X    |       |       |       |       |       | 
-| Lorenzo Viray          |       |       |       |       |       |       |       |  X    |       |       | 
+| Lorenzo Viray          |       |       |       |       |       |       |       |  X    | X     |       | 
 
 
 ---
