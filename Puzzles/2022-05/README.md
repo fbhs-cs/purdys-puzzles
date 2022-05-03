@@ -6,7 +6,7 @@ Consider the formula:
  ABCDE
 + BCDE
 +  CDE
-+	  DE
++   DE
 +    E
 ------
  FGHIJ
