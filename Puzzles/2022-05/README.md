@@ -3,13 +3,13 @@
 Consider the formula:
 
 ```
-ABCDE
-+BCDE
-+ CDE
-+	 DE
-+   E
------
-FGHIJ
+ ABCDE
++ BCDE
++  CDE
++   DE
++    E
+------
+ FGHIJ
 ```
 Where each letter represents a unique decimal digit and there are no leading 0s.  
 
