@@ -1,6 +1,23 @@
 # Mr. Purdy's Monthly Puzzles
 
 This is a collection of the monthly puzzles that I usually put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
+## 2022 - 2023 Monthly Puzzles
+* [August 2022](./Puzzles/2022-08/README.md)
+
+## What to do
+When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+
+## Monthly Solvers 2022-2023
+
+|     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 12/22 | 1/23  | 2/23 | 3/23  | 4/23  | 5/23  |
+|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:  |
+|      		             |       |       |       |       |       |       |       |       |       |      |
+ 
+
+
+---
+## Past Years' Puzzles
+
 ## 2021 - 2022 Monthly Puzzles
 * [May 2022](./Puzzles/2022-05/README.md)
 * [April 2022](./Puzzles/2022-04/README.md) - [Solution](./Puzzles/2022-04/SOLUTION.md)
@@ -12,9 +29,6 @@ This is a collection of the monthly puzzles that I usually put up on the chalk b
 * [October 2021](./Puzzles/2021-10/README.md) - [Solution](./Puzzles/2021-10/SOLUTION.md)
 * [September 2021](./Puzzles/2021-09/README.md) - Solution will not be posted
 * [August 2021](./Puzzles/2021-08/README.md) - [Solution](./Puzzles/2021-08/SOLUTION.md)
-
-## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
 ## Monthly Solvers 2021-2022
 
@@ -30,9 +44,6 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Mason Wendel           |       |       |       |       |  X    |       |       |       |       |       | 
 | Lorenzo Viray          |       |       |       |       |       |       |       |  X    | X     |       | 
 
-
----
-## Past Years' Puzzles
 
 ## 2020 - 2021 Monthly Puzzles
 * [May 2021](./Puzzles/2021-05/README.md) - [Solution](./Puzzles/2021-05/SOLUTION.md)
