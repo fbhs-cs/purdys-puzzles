@@ -2,7 +2,9 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
-* [August 2022](./Puzzles/2022-08/README.md) - Solution
+* [September 2022](./Puzzles/2022-09/README.md)
+* [August 2022](./Puzzles/2022-08/README.md) - [Solution](./Puzzles/2022-08/SOLUTION.md)
+
 
 ## What to do
 When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
