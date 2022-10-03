@@ -2,7 +2,8 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
-* [September 2022](./Puzzles/2022-09/README.md)
+* [October 2022](./Puzzles/2022-10/README.md)
+* [September 2022](./Puzzles/2022-09/README.md) - [Solution](./Puzzles/2022-09/SOLUTION.md)
 * [August 2022](./Puzzles/2022-08/README.md) - [Solution](./Puzzles/2022-08/SOLUTION.md)
 
 
