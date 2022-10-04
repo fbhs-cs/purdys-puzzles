@@ -19,7 +19,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Xander Nguyen          | X     |       |  X    |       |       |       |       |       |       |      |
 | Nathaniel Puumala      | X     | X     |       |       |       |       |       |       |       |      |
 | Alex Xie               | X     |       |       |       |       |       |       |       |       |      |
- 
+| Kyle Xu                |       |       |  X    |       |       |       |       |       |       |      |
 
 
 ---
