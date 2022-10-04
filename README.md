@@ -14,6 +14,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 12/22 | 1/23  | 2/23  | 3/23  | 4/23  | 5/23 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:  |
+| Dillon Cool            |       |       |  X    |       |       |       |       |       |       |      |
 | Caleb Griffis          |       |       |  X    |       |       |       |       |       |       |      |
 | Xander Nguyen          | X     |       |  X    |       |       |       |       |       |       |      |
 | Nathaniel Puumala      | X     | X     |       |       |       |       |       |       |       |      |
