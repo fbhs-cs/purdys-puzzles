@@ -18,6 +18,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Caleb Griffis          |       |       |  X    |       |       |       |       |       |       |      |
 | Xander Nguyen          | X     |       |  X    |       |       |       |       |       |       |      |
 | Nathaniel Puumala      | X     | X     |       |       |       |       |       |       |       |      |
+| Lorenzo Viray          |       |       |  X    |       |       |       |       |       |       |      |
 | Alex Xie               | X     |       |       |       |       |       |       |       |       |      |
 | Kyle Xu                |       |       |  X    |       |       |       |       |       |       |      |
 
