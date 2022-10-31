@@ -17,7 +17,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Dillon Cool            |       |       |  X    |       |       |       |       |       |       |      |
 | Caleb Griffis          |       |       |  X    |       |       |       |       |       |       |      |
 | Xander Nguyen          | X     |       |  X    |       |       |       |       |       |       |      |
-| Nathaniel Puumala      | X     | X     |       |       |       |       |       |       |       |      |
+| Nathaniel Puumala      | X     | X     |  X    |       |       |       |       |       |       |      |
 | Lorenzo Viray          |       |       |  X    |       |       |       |       |       |       |      |
 | Alex Xie               | X     |       |  X    |       |       |       |       |       |       |      |
 | Kyle Xu                |       |       |  X    |       |       |       |       |       |       |      |
