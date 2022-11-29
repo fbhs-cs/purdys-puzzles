@@ -4,7 +4,7 @@ This month, instead of having a puzzle I challenge you to participate and comple
 
 Ask me for help, discuss with classmates, etc.  Send me your code for your solutions and I will post the links here!
 
-Join my leaderboard using the code: 628104-25b8ef7e
+Join my leaderboard using the code: `628104-25b8ef7e`
 
 ## Problem Solutions
 
