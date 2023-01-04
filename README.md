@@ -2,6 +2,7 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
+* [January 2023](./Puzzles/2023-01/README.md)
 * [December 2022](./Puzzles/2022-12/README.md)
 * [November 2022](./Puzzles/2022-11/README.md)
 * [October 2022](./Puzzles/2022-10/README.md) - [Solution](./Puzzles/2022-10/SOLUTION.md)
@@ -14,16 +15,16 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 ## Monthly Solvers 2022-2023
 
-|     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 12/22 | 1/23  | 2/23  | 3/23  | 4/23  | 5/23 |
-|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:  |
-| Dillon Cool            |       |       |  X    |  X    |       |       |       |       |       |      |
-| Caleb Griffis          |       |       |  X    |       |       |       |       |       |       |      |
-| Xander Nguyen          | X     |       |  X    |  X    |       |       |       |       |       |      |
-| Nathaniel Puumala      | X     | X     |  X    |   X   |       |       |       |       |       |      |
-| Lorenzo Viray          |       |       |  X    |   X   |       |       |       |       |       |      |
-| Mason Wendel           |       |       |       |   X   |       |       |       |       |       |      |
-| Alex Xie               | X     |       |  X    |  X    |       |       |       |       |       |      |
-| Kyle Xu                |       |       |  X    |       |       |       |       |       |       |      |
+|     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 1/23  | 2/23  | 3/23  | 4/23  | 5/23 |
+|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
+| Dillon Cool            |       |       |  X    |  X    |       |       |       |       |       |
+| Caleb Griffis          |       |       |  X    |       |       |       |       |       |       |
+| Xander Nguyen          | X     |       |  X    |  X    |       |       |       |       |       |
+| Nathaniel Puumala      | X     | X     |  X    |   X   |       |       |       |       |       |
+| Lorenzo Viray          |       |       |  X    |   X   |       |       |       |       |       |
+| Mason Wendel           |       |       |       |   X   |       |       |       |       |       |
+| Alex Xie               | X     |       |  X    |  X    |       |       |       |       |       |
+| Kyle Xu                |       |       |  X    |       |       |       |       |       |       |
 
 
 ---
