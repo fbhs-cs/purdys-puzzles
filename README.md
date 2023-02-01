@@ -1,7 +1,8 @@
 # Mr. Purdy's Monthly Puzzles
 
-This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Solutions are provided *after* the month in which the puzzle was posted has ended.
+This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
+* [February 2023](./Puzzles/2023-02/README.md)
 * [January 2023](./Puzzles/2023-01/README.md)
 * [December 2022](./Puzzles/2022-12/README.md)
 * [November 2022](./Puzzles/2022-11/README.md)
