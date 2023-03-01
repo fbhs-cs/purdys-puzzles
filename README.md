@@ -2,10 +2,11 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
-* [February 2023](./Puzzles/2023-02/README.md)
-* [January 2023](./Puzzles/2023-01/README.md)
-* [December 2022](./Puzzles/2022-12/README.md)
-* [November 2022](./Puzzles/2022-11/README.md)
+* [March 2023](./Puzzles/2023-03/README.md)
+* [February 2023](./Puzzles/2023-02/README.md) - Thomas Edison 
+* [January 2023](./Puzzles/2023-01/README.md) - 2023
+* [December 2022](./Puzzles/2022-12/README.md) - N/A
+* [November 2022](./Puzzles/2022-11/README.md) - 51
 * [October 2022](./Puzzles/2022-10/README.md) - [Solution](./Puzzles/2022-10/SOLUTION.md)
 * [September 2022](./Puzzles/2022-09/README.md) - [Solution](./Puzzles/2022-09/SOLUTION.md)
 * [August 2022](./Puzzles/2022-08/README.md) - [Solution](./Puzzles/2022-08/SOLUTION.md)

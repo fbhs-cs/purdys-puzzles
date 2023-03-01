@@ -1,0 +1,3 @@
+# March 2023 Puzzle
+
+It is suspected that `pi` is a *normal* number, ie. that its digits are uniformly distributed.  The first 10 digits of `pi` (after the decimal) are `3.1415926535`.  Notice that there are 2 ones.  In the first 100 digits of `pi` there are only 8 ones.  In the first 1000 digits of `pi` there are 116 ones.  If you represent this [1000 digit approximation of `pi`](https://decimal.info/digits-of-pi/value-of-pi-to-1000-decimal-places.html) in binary, the first 10 bits are `11.00100100`.  Notice that it has 4 ones.  The first 100 bits has 42 ones!  How many ones are in the first 100000 bits of the binary representation of this approximation of `pi`?  
