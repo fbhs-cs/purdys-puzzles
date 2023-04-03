@@ -2,7 +2,8 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 ## 2022 - 2023 Monthly Puzzles
-* [March 2023](./Puzzles/2023-03/README.md)
+* [April 2023](./Puzzles/2023-04/README.md)
+* [March 2023](./Puzzles/2023-03/README.md) - 49872
 * [February 2023](./Puzzles/2023-02/README.md) - Thomas Edison 
 * [January 2023](./Puzzles/2023-01/README.md) - 2023
 * [December 2022](./Puzzles/2022-12/README.md) - N/A
@@ -19,8 +20,8 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 1/23  | 2/23  | 3/23  | 4/23  | 5/23 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
-| Dillon Cool            |       |       |  X    |  X    |   X   |   X    |       |       |       |
-| Caleb Griffis          |       |       |  X    |       |       |   X    |       |       |       |
+| Dillon Cool            |       |       |  X    |  X    |   X   |   X    |  X     |       |       |
+| Caleb Griffis          |       |       |  X    |       |       |   X    |  X     |       |       |
 | Xander Nguyen          | X     |       |  X    |  X    |       |       |       |       |       |
 | Nathaniel Puumala      | X     | X     |  X    |   X   |       |       |       |       |       |
 | Lorenzo Viray          |       |       |  X    |   X   |       |       |       |       |       |
