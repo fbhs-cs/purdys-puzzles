@@ -21,11 +21,12 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/22  | 9/22  | 10/22 | 11/22 | 1/23  | 2/23  | 3/23  | 4/23  | 5/23 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
-| Dillon Cool            |       |       |  X    |  X    |   X   |   X    |  X   |  X    |       |
-| Caleb Griffis          |       |       |  X    |       |       |   X    |  X   |  X    |       |
+| Dillon Cool            |       |       |  X    |  X    |   X   |   X    |  X   |  X    |   X   |
+| Caleb Griffis          |       |       |  X    |       |       |   X    |  X   |  X    |   X    |
 | Xander Nguyen          | X     |       |  X    |  X    |       |       |       |       |       |
-| Nathaniel Puumala      | X     | X     |  X    |   X   |       |       |       |       |       |
-| Lorenzo Viray          |       |       |  X    |   X   |       |       |       |       |       |
+| Carson Pape            |       |       |       |       |       |       |       |       |  X     |
+| Nathaniel Puumala      | X     | X     |  X    |   X   |       |       |       |       |  X     |
+| Lorenzo Viray          |       |       |  X    |   X   |       |       |       |       | X      |
 | Mason Wendel           |       |       |       |   X   |       |       |       |       |       |
 | Alex Xie               | X     |       |  X    |  X    |       |       |       |       |       |
 | Kyle Xu                |       |       |  X    |       |       |       |       |       |       |
