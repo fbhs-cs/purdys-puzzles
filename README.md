@@ -1,6 +1,23 @@
 # Mr. Purdy's Monthly Puzzles
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
+
+## 2023 - 2024 Monthly Puzzles
+* [August 2023](./Puzzles/2023-08/README.md)
+
+## What to do
+When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+
+## Monthly Solvers 2022-2023
+
+|     Name         		 | 8/23  | 9/23  | 10/23 | 11/23 | 1/24  | 2/24  | 3/24  | 4/24  | 5/24 |
+|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
+
+
+
+---
+## Past Years' Puzzles
+
 ## 2022 - 2023 Monthly Puzzles
 * [May 2023](./Puzzles/2023-05/README.md)
 * [April 2023](./Puzzles/2023-04/README.md) - "DATA"
@@ -12,10 +29,6 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 * [October 2022](./Puzzles/2022-10/README.md) - [Solution](./Puzzles/2022-10/SOLUTION.md)
 * [September 2022](./Puzzles/2022-09/README.md) - [Solution](./Puzzles/2022-09/SOLUTION.md)
 * [August 2022](./Puzzles/2022-08/README.md) - [Solution](./Puzzles/2022-08/SOLUTION.md)
-
-
-## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
 ## Monthly Solvers 2022-2023
 
@@ -31,9 +44,6 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Alex Xie               | X     |       |  X    |  X    |       |       |       |       |       |
 | Kyle Xu                |       |       |  X    |       |       |       |       |       |       |
 
-
----
-## Past Years' Puzzles
 
 ## 2021 - 2022 Monthly Puzzles
 * [May 2022](./Puzzles/2022-05/README.md)
