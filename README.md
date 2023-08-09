@@ -19,7 +19,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 ## Past Years' Puzzles
 
 ## 2022 - 2023 Monthly Puzzles
-* [May 2023](./Puzzles/2023-05/README.md)
+* [May 2023](./Puzzles/2023-05/README.md) - 88
 * [April 2023](./Puzzles/2023-04/README.md) - "DATA"
 * [March 2023](./Puzzles/2023-03/README.md) - 49872
 * [February 2023](./Puzzles/2023-02/README.md) - Thomas Edison 
