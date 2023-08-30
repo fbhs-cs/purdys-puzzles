@@ -12,7 +12,10 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/23  | 9/23  | 10/23 | 11/23 | 1/24  | 2/24  | 3/24  | 4/24  | 5/24 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
-
+| Xander Nguyen          | X     |       |       |       |       |       |       |       |       |
+| Nathaniel Puumala      | X     |       |       |       |       |       |       |       |       | 
+| Mason Wendel           | X     |       |       |       |       |       |       |       |       |
+| Samuel Zhang           | X     |       |       |       |       |       |       |       |       |
 
 
 ---
