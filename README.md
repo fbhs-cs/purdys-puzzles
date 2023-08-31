@@ -15,6 +15,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Xander Nguyen          | X     |       |       |       |       |       |       |       |       |
 | Nathaniel Puumala      | X     |       |       |       |       |       |       |       |       | 
 | Mason Wendel           | X     |       |       |       |       |       |       |       |       |
+| Alex Xie               | X     |       |       |       |       |       |       |       |       |
 | Samuel Zhang           | X     |       |       |       |       |       |       |       |       |
 
 
