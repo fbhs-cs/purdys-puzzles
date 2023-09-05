@@ -19,7 +19,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Quintin Smith          |       | X     |       |       |       |       |       |       |       |
 | Lorenzo Viray          | X     |       |       |       |       |       |       |       |       |
 | Mason Wendel           | X     |       |       |       |       |       |       |       |       |
-| Alex Xie               | X     |       |       |       |       |       |       |       |       |
+| Alex Xie               | X     | X     |       |       |       |       |       |       |       |
 | Samuel Zhang           | X     |       |       |       |       |       |       |       |       |
 
 
