@@ -13,15 +13,15 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/23  | 9/23  | 10/23 | 11/23 | 1/24  | 2/24  | 3/24  | 4/24  | 5/24 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
-| CJ Avalos              |       | X     |       |       |       |       |       |       |       |
-| Nya Davis              |       | X     |       |       |       |       |       |       |       |  
-| Xander Nguyen          | X     |       |       |       |       |       |       |       |       |
-| Nathaniel Puumala      | X     |       |       |       |       |       |       |       |       |
-| Quintin Smith          |       | X     |       |       |       |       |       |       |       |
-| Lorenzo Viray          | X     |       |       |       |       |       |       |       |       |
-| Mason Wendel           | X     |       |       |       |       |       |       |       |       |
-| Alex Xie               | X     | X     |       |       |       |       |       |       |       |
-| Samuel Zhang           | X     |       |       |       |       |       |       |       |       |
+| CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
+| Nya Davis              |       | X*    |       |       |       |       |       |       |       |  
+| Xander Nguyen          | X*    |       |       |       |       |       |       |       |       |
+| Nathaniel Puumala      | X*    | X*    |       |       |       |       |       |       |       |
+| Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
+| Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
+| Mason Wendel           | X*    | X*    |       |       |       |       |       |       |       |
+| Alex Xie               | X*    | X*    |       |       |       |       |       |       |       |
+| Samuel Zhang           | X*    |       |       |       |       |       |       |       |       |
 
 
 ---
