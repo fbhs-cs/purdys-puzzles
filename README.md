@@ -15,7 +15,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |  
-| Xander Nguyen          | X*    |       |       |       |       |       |       |       |       |
+| Xander Nguyen          | X*    | X*    |       |       |       |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    |       |       |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
