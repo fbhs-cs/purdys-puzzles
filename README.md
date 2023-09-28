@@ -21,7 +21,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
 | Mason Wendel           | X*    | X*    |       |       |       |       |       |       |       |
 | Alex Xie               | X*    | X*    |       |       |       |       |       |       |       |
-| Samuel Zhang           | X*    |       |       |       |       |       |       |       |       |
+| Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
 
 
 ---
