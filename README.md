@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2023 - 2024 Monthly Puzzles
-* [September 2023](./Puzzles/2023-09/README.md)
+* [October 2023](./Puzzles/2023-10/README.md)
+* [September 2023](./Puzzles/2023-09/README.md) - 747
 * [August 2023](./Puzzles/2023-08/README.md) - tattarrattat
 
 ## What to do
