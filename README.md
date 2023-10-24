@@ -15,7 +15,8 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |     Name         		 | 8/23  | 9/23  | 10/23 | 11/23 | 1/24  | 2/24  | 3/24  | 4/24  | 5/24 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
-| Nya Davis              |       | X*    |       |       |       |       |       |       |       |  
+| Nya Davis              |       | X*    |       |       |       |       |       |       |       |
+| Connor Murphy          |       |       |  X    |       |       |       |       |       |       |
 | Xander Nguyen          | X*    | X*    |       |       |       |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    |  X    |       |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
