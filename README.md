@@ -4,7 +4,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 ## 2023 - 2024 Monthly Puzzles
 * [November 2023](./Puzzles/2023-11/README.md)
-* [October 2023](./Puzzles/2023-10/README.md) -
+* [October 2023](./Puzzles/2023-10/README.md) - 188
 * [September 2023](./Puzzles/2023-09/README.md) - 747
 * [August 2023](./Puzzles/2023-08/README.md) - tattarrattat
 
@@ -17,12 +17,13 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
-| Connor Murphy          |       |       |  X    |       |       |       |       |       |       |
+| Colin Harrington-Ding  |       |       |  X*   |       |       |       |       |       |       |
+| Connor Murphy          |       |       |  X*   |       |       |       |       |       |       |
 | Xander Nguyen          | X*    | X*    |  X    |       |       |       |       |       |       |
-| Nathaniel Puumala      | X*    | X*    |  X    |       |       |       |       |       |       |
+| Nathaniel Puumala      | X*    | X*    |  X*   |       |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
-| Mason Wendel           | X*    | X*    |  X    |       |       |       |       |       |       |
+| Mason Wendel           | X*    | X*    |  X*   |  X    |       |       |       |       |       |
 | Alex Xie               | X*    | X*    |  X    |       |       |       |       |       |       |
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
 
