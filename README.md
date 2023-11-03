@@ -17,10 +17,10 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
-| Colin Harrington-Ding  |       |       |  X*   |       |       |       |       |       |       |
-| Connor Murphy          |       |       |  X*   |       |       |       |       |       |       |
+| Colin Harrington-Ding  |       |       |  X*   |  X    |       |       |       |       |       |
+| Connor Murphy          |       |       |  X*   |  X    |       |       |       |       |       |
 | Xander Nguyen          | X*    | X*    |  X    |       |       |       |       |       |       |
-| Nathaniel Puumala      | X*    | X*    |  X*   |       |       |       |       |       |       |
+| Nathaniel Puumala      | X*    | X*    |  X*   |  X    |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
 | Mason Wendel           | X*    | X*    |  X*   |  X    |       |       |       |       |       |
