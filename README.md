@@ -19,7 +19,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
 | Colin Harrington-Ding  |       |       |  X*   |  X    |       |       |       |       |       |
 | Connor Murphy          |       |       |  X*   |  X    |       |       |       |       |       |
-| Xander Nguyen          | X*    | X*    |  X    |       |       |       |       |       |       |
+| Xander Nguyen          | X*    | X*    |  X    |  X    |       |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    |  X*   |  X    |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |       |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |       |       |       |       |       |       |
