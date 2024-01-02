@@ -1,4 +1,4 @@
-# January 2020 Puzzle
+# January 2024 Puzzle
 
 The first 15 numbers of a particular sequence of integers are:
 
@@ -10,5 +10,5 @@ The **100th** number in the sequence is `1131`
 
 The **1000th** number in the sequence is `16872`
 
-What is the sum of the digits in the **2020th** number in the sequence?
+What is the sum of the digits in the **2024th** number in the sequence?
 
