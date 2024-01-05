@@ -21,12 +21,12 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
 | Colin Harrington-Ding  |       |       |  X*   |  X*   |       |       |       |       |       |
 | Connor Murphy          |       |       |  X*   |  X*   |  X    |       |       |       |       |
-| Xander Nguyen          | X*    | X*    |  X    |  X*   |       |       |       |       |       |
+| Xander Nguyen          | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Quintin Smith          |       | X*    |       |  X*   |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
-| Mason Wendel           | X*    | X*    |  X*   |  X    |       |       |       |       |       |
-| Alex Xie               | X*    | X*    |  X    |  X    |       |       |       |       |       |
+| Mason Wendel           | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
+| Alex Xie               | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Kyle Xu                |       |       |       |  X*   |       |       |       |       |       |
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
 
