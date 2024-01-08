@@ -27,7 +27,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
 | Mason Wendel           | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Alex Xie               | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
-| Kyle Xu                |       |       |       |  X*   |       |       |       |       |       |
+| Kyle Xu                |       |       |       |  X*   |  X    |       |       |       |       |
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
 
 
