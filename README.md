@@ -25,7 +25,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |  X*   |       |       |       |       |
 | Quintin Smith          |       | X*    |       |  X*   |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
-| Mason Wendel           | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
+| Mason Wendel           | X*    | X*    |  X*   |  X*   |  X*   |       |       |       |       |
 | Alex Xie               | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Kyle Xu                |       |       |       |  X*   |  X*   |       |       |       |       |
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
