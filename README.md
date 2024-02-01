@@ -3,7 +3,9 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2023 - 2024 Monthly Puzzles
-* [January 2024](./Puzzles/2024-01/README.md)
+
+* [February 2024](./Puzzles/2024-02/README.md)
+* [January 2024](./Puzzles/2024-01/README.md) - 24
 * [December 2023](./Puzzles/2023-12/README.md) N/A
 * [November 2023](./Puzzles/2023-11/README.md) - "on their feet"
 * [October 2023](./Puzzles/2023-10/README.md) - 188
@@ -13,15 +15,16 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 ## What to do
 When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
 
-## Monthly Solvers 2022-2023
+## Monthly Solvers 2023-2024
 
 |     Name         		 | 8/23  | 9/23  | 10/23 | 11/23 | 1/24  | 2/24  | 3/24  | 4/24  | 5/24 |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       | X*    |       |       |       |       |       |       |       |
+| Jared Baldwin          |       |       |       |       |  X*   |       |       |       |       |
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
 | Colin Harrington-Ding  |       |       |  X*   |  X*   |       |       |       |       |       |
 | Connor Murphy          |       |       |  X*   |  X*   |  X*   |       |       |       |       |
-| Xander Nguyen          | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
+| Xander Nguyen          | X*    | X*    |  X*   |  X*   |  X*   |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |  X*   |       |       |       |       |
 | Quintin Smith          |       | X*    |       |  X*   |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
