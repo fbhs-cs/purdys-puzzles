@@ -4,7 +4,8 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 ## 2023 - 2024 Monthly Puzzles
 
-* [February 2024](./Puzzles/2024-02/README.md)
+* [March 2024](./Puzzles/2024-03/README.md)
+* [February 2024](./Puzzles/2024-02/README.md) - 854
 * [January 2024](./Puzzles/2024-01/README.md) - 24
 * [December 2023](./Puzzles/2023-12/README.md) N/A
 * [November 2023](./Puzzles/2023-11/README.md) - "on their feet"
@@ -23,12 +24,12 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Jared Baldwin          |       |       |       |       |  X*   |       |       |       |       |
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
 | Colin Harrington-Ding  |       |       |  X*   |  X*   |       |       |       |       |       |
-| Connor Murphy          |       |       |  X*   |  X*   |  X*   |  X    |       |       |       |
+| Connor Murphy          |       |       |  X*   |  X*   |  X*   |  X*   |       |       |       |
 | Xander Nguyen          | X*    | X*    |  X*   |  X*   |  X*   |  X    |       |       |       |
-| Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |  X*   |  X    |       |       |       |
+| Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |  X*   |  X*   |       |       |       |
 | Quintin Smith          |       | X*    |       |  X*   |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
-| Mason Wendel           | X*    | X*    |  X*   |  X*   |  X*   |       |       |       |       |
+| Mason Wendel           | X*    | X*    |  X*   |  X*   |  X*   |   X   |       |       |       |
 | Alex Xie               | X*    | X*    |  X*   |  X*   |       |       |       |       |       |
 | Kyle Xu                |       |       |       |  X*   |  X*   |       |       |       |       |
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
