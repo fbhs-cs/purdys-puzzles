@@ -8,10 +8,10 @@ Fewer people are familiar with pentagonal numbers: 1, 5, 12, 22, 35, ...
 
 Few people have heard of octagonal numbers: 1, 8, 21, 40, 65, ...
 
-225 is the 9th octagonal number and the first square number greater than 1 that is also octagonal.
+176 is the 8th octagonal number and the first pentagonal number greater than 1 that is also octagonal.
 
-2 + 2 + 5 + 9 = 18.  We will call this the "star" value of the number.
+1 + 7 + 6 + 8 = 22.  We will call this the "star" value of the number.
 
-The star value of the 2nd square number that is also octagonal is 26.
+The star value of the 2nd pentagonal number that is also octagonal is 43.
 
-What is the star value of the 6th square number that is also octagonal?
+What is the star value of the 5th pentagonal number that is also octagonal?
