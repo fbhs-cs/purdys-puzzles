@@ -12,6 +12,6 @@ Few people have heard of octagonal numbers (`n(3n-2)`): 1, 8, 21, 40, 65, ...
 
 1 + 7 + 6 + 8 = 22.  We will call this the "star" value of the number.
 
-The star value of the 2nd pentagonal number that is also octagonal is 43.
+The star value of the 2nd pentagonal number greater than 1 that is also octagonal is 43.
 
-What is the star value of the 5th pentagonal number that is also octagonal?
+What is the star value of the 5th pentagonal number greater than 1 that is also octagonal?
