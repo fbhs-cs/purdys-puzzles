@@ -4,7 +4,8 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 ## 2023 - 2024 Monthly Puzzles
 
-* [April 2024](./Puzzles/2024-04/README.md)
+* [May 2024](./Puzzles/2024-05/README.md)
+* [April 2024](./Puzzles/2024-04/README.md) - 68
 * [March 2024](./Puzzles/2024-03/README.md) - 13
 * [February 2024](./Puzzles/2024-02/README.md) - 854
 * [January 2024](./Puzzles/2024-01/README.md) - 24
@@ -27,7 +28,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Nya Davis              |       | X*    |       |       |       |       |       |       |       |
 | Colin Harrington-Ding  |       |       |  X*   |  X*   |       |       |       |       |       |
 | Connor Murphy          |       |       |  X*   |  X*   |  X*   |  X*   | X*    |  X*   |       |
-| Xander Nguyen          | X*    | X*    |  X*   |  X*   |  X*   |  X*   | X*    |       |       |
+| Xander Nguyen          | X*    | X*    |  X*   |  X*   |  X*   |  X*   | X*    |  X*   |       |
 | Nathaniel Puumala      | X*    | X*    |  X*   |  X*   |  X*   |  X*   | X*    |  X*   |       |
 | Quintin Smith          |       | X*    |       |  X*   |       |       |       |       |       |
 | Lorenzo Viray          | X*    |       |       |  X*   |       |       |       |       |       |
