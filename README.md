@@ -2,6 +2,22 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
+## 2024 - 2025 Monthly Puzzles
+* [August 2024](./Puzzles/2024-08/README.md)
+
+## What to do
+When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+
+## Monthly Solvers 2024-2025
+
+|     Name         		 | 8/24  | 9/24  | 10/24 | 11/24 | 1/25  | 2/25  | 3/25  | 4/25  | 5/25  |
+|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
+|                        |       |       |       |       |       |       |       |       |       |
+
+---
+## Past Years' Puzzles
+
+
 ## 2023 - 2024 Monthly Puzzles
 
 * [May 2024](./Puzzles/2024-05/README.md)
@@ -15,8 +31,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 * [September 2023](./Puzzles/2023-09/README.md) - 747
 * [August 2023](./Puzzles/2023-08/README.md) - tattarrattat
 
-## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+
 
 ## Monthly Solvers 2023-2024
 
@@ -38,8 +53,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Samuel Zhang           | X*    | X*    |       |       |       |       |       |       |       |
 
 
----
-## Past Years' Puzzles
+
 
 ## 2022 - 2023 Monthly Puzzles
 * [May 2023](./Puzzles/2023-05/README.md) - 88
