@@ -17,7 +17,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Luke Davis             | X*    | X     |       |       |       |       |       |       |       |
 | Luke Ibanez            |       | X     |       |       |       |       |       |       |       |
 | Joey Liu               | X*    |       |       |       |       |       |       |       |       |
-| Connor Murphy|         |       | X     |       |       |       |       |       |       |
+| Connor Murphy          |       | X     |       |       |       |       |       |       |       |
 | Nathaniel Puumala      | X*    | X     |       |       |       |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
 
