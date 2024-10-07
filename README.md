@@ -14,6 +14,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 |     Name         		 | 8/24  | 9/24  | 10/24 | 11/24 | 1/25  | 2/25  | 3/25  | 4/25  | 5/25  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
+| Christian Cartwright   |       |       | X     |       |       |       |       |       |       |
 | Luke Davis             | X*    | X     |       |       |       |       |       |       |       |
 | Luke Ibanez            |       | X     |       |       |       |       |       |       |       |
 | Ethan Jordan           |       |       | X     |       |       |       |       |       |       |
