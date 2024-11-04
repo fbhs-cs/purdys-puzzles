@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2024 - 2025 Monthly Puzzles
-* [October 2024](./Puzzles/2024-10/README.md)
+* [November 2024](./Puzzles/2024-11/README.md)
+* [October 2024](./Puzzles/2024-10/README.md) - 14383
 * [September 2024](./Puzzles/2024-09/README.md) - Guido van Rossum
 * [August 2024](./Puzzles/2024-08/README.md) - 502
 
