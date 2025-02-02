@@ -3,6 +3,7 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2024 - 2025 Monthly Puzzles
+* [January 2025](./Puzzles/2025-01/README.md)
 * [December 2024](./Puzzles/2024-12/README.md)
 * [November 2024](./Puzzles/2024-11/README.md) - 1116
 * [October 2024](./Puzzles/2024-10/README.md) - 14383
@@ -21,11 +22,11 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Christian Cartwright   |       |       | X*    |       |       |       |       |       |       |
 | Jeffery Cutshall       |       |       | X*    |       |       |       |       |       |       |
 | Luke Davis             | X*    | X*    |       |       |       |       |       |       |       |
-| Luke Ibanez            |       | X*    |       |       |       |       |       |       |       |
+| Luke Ibanez            |       | X*    |       |       | X      |       |       |       |       |
 | Ethan Jordan           |       |       | X*    |   *X   |       |       |       |       |       |
-| Joey Liu               | X*    |       |       |   *X   |       |       |       |       |       |
-| Connor Murphy          |       | X*    | X*    |   *X   |       |       |       |       |       |
-| Nathaniel Puumala      | X*    | X*    | X*    |   *X   |       |       |       |       |       |
+| Joey Liu               | X*    |       |       |   *X   | X     |       |       |       |       |
+| Connor Murphy          |       | X*    | X*    |   *X   | X     |       |       |       |       |
+| Nathaniel Puumala      | X*    | X*    | X*    |   *X   | X     |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
 
 ---
