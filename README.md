@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2024 - 2025 Monthly Puzzles
-* [February 2025](./Puzzles/2025-02/README.md)
+* [March 2025](./Puzzles/2025-03/README.md)
+* [February 2025](./Puzzles/2025-02/README.md) - 59
 * [January 2025](./Puzzles/2025-01/README.md) - 64394300519624
 * [December 2024](./Puzzles/2024-12/README.md)
 * [November 2024](./Puzzles/2024-11/README.md) - 1116
@@ -19,13 +20,13 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |     Name         		 | 8/24  | 9/24  | 10/24 | 11/24 | 1/25  | 2/25  | 3/25  | 4/25  | 5/25  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   |
 | CJ Avalos              |       |       |       |  *X    |       |       |       |       |       |
-| Devin Bradley          |       |       |       |  *X    |       |       |       |       |       |
+| Devin Bradley          |       |       |       |  *X    |       | X      |       |       |       |
 | Christian Cartwright   |       |       | X*    |       |       |       |       |       |       |
 | Jeffery Cutshall       |       |       | X*    |       |       |       |       |       |       |
 | Luke Davis             | X*    | X*    |       |       |       |       |       |       |       |
-| Luke Ibanez            |       | X*    |       |       | X      |       |       |       |       |
-| Ethan Jordan           |       |       | X*    |   *X   |       |       |       |       |       |
-| Joey Liu               | X*    |       |       |   *X   | X     |       |       |       |       |
+| Luke Ibanez            |       | X*    |       |       | X      | X     |       |       |       |
+| Ethan Jordan           |       |       | X*    |   *X   |       | X      |       |       |       |
+| Joey Liu               | X*    |       |       |   *X   | X     | X      |       |       |       |
 | Connor Murphy          |       | X*    | X*    |   *X   | X     |       |       |       |       |
 | Nathaniel Puumala      | X*    | X*    | X*    |   *X   | X     |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
