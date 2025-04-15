@@ -25,10 +25,10 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Christian Cartwright   |       |       | X*    |       |       |       |       |       |       |
 | Jeffery Cutshall       |       |       | X*    |       |       |       |       |       |       |
 | Luke Davis             | X*    | X*    |       |       |       |       |       |       |       |
-| Luke Ibanez            |       | X*    |       |       | *X    | *X    | X     |       |       |
+| Luke Ibanez            |       | X*    |       |       | *X    | *X    | X*    |  X     |       |
 | Ethan Jordan           |       |       | X*    |   *X  |       | *X    |       |       |       |
 | Joey Liu               | X*    |       |       |   *X  | *X    | *X    |       |       |       |
-| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X    |       |       |
+| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X*   |       |       |
 | Nathaniel Puumala      | X*    | X*    | X*    |   *X  | *X    |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
 
