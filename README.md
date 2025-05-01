@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2024 - 2025 Monthly Puzzles
-* [April 2025](./Puzzles/2025-04/README.md)
+* [May 2025](./Puzzles/2025-05/README.md)
+* [April 2025](./Puzzles/2025-04/README.md) - 1868
 * [March 2025](./Puzzles/2025-03/README.md) - 146
 * [February 2025](./Puzzles/2025-02/README.md) - 59
 * [January 2025](./Puzzles/2025-01/README.md) - 64394300519624
@@ -28,7 +29,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Luke Ibanez            |       | X*    |       |       | *X    | *X    | X*    |  X     |       |
 | Ethan Jordan           |       |       | X*    |   *X  |       | *X    |       |       |       |
 | Joey Liu               | X*    |       |       |   *X  | *X    | *X    |       |       |       |
-| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X*   |       |       |
+| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X*   |  X     |       |
 | Nathaniel Puumala      | X*    | X*    | X*    |   *X  | *X    |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
 
