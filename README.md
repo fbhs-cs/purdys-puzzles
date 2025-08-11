@@ -2,6 +2,18 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
+## 2025 - 2026 Monthly Puzzles
+* [August 2025](./Puzzles/2025-08/README.md)
+
+## Monthly Solvers 2025-2026
+
+|     Name         		 | 8/25  | 9/25  | 10/25 | 11/25 | 12/25 | 1/26  | 2/26  | 3/26  | 4/26  | 5/26  |
+|:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
+|                        |       |       |       |       |       |       |       |       |       |       |
+
+---
+## Past Years' Puzzles
+
 ## 2024 - 2025 Monthly Puzzles
 * [May 2025](./Puzzles/2025-05/README.md)
 * [April 2025](./Puzzles/2025-04/README.md) - 1868
@@ -26,16 +38,12 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 | Christian Cartwright   |       |       | X*    |       |       |       |       |       |       |
 | Jeffery Cutshall       |       |       | X*    |       |       |       |       |       |       |
 | Luke Davis             | X*    | X*    |       |       |       |       |       |       |       |
-| Luke Ibanez            |       | X*    |       |       | *X    | *X    | X*    |  X     |       |
+| Luke Ibanez            |       | X*    |       |       | *X    | *X    | X*    |  X*   | X*    |
 | Ethan Jordan           |       |       | X*    |   *X  |       | *X    |       |       |       |
 | Joey Liu               | X*    |       |       |   *X  | *X    | *X    |       |       |       |
-| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X*   |  X     |       |
+| Connor Murphy          |       | X*    | X*    |   *X  | *X    |       |  X*   |  X*   |       |
 | Nathaniel Puumala      | X*    | X*    | X*    |   *X  | *X    |       |       |       |       |
 | Caroline Sharp         | X*    |       |       |       |       |       |       |       |       |
-
----
-## Past Years' Puzzles
-
 
 ## 2023 - 2024 Monthly Puzzles
 

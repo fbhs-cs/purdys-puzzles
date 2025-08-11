@@ -1,0 +1,5 @@
+# August 2025 Puzzle
+
+```
+WPKSWG NHB KTW LHJO HZCO JUNG ZJ GXQM
+```
