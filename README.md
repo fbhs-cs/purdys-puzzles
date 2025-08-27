@@ -4,28 +4,29 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 ## 2025 - 2026 Monthly Puzzles
 * [August 2025](./Puzzles/2025-08/README.md)
+* September 2025 - Coming soon!
 
 ## Monthly Solvers 2025-2026
 
 |     Name         		 | 8/25  | 9/25  | 10/25 | 11/25 | 12/25 | 1/26  | 2/26  | 3/26  | 4/26  | 5/26  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
 |     Luke Ibanez        |  X*   |       |       |       |       |       |       |       |       |       |
-|                        |       |       |       |       |       |       |       |       |       |       |
+|     Anthony Underbrink |  X*   |       |       |       |       |       |       |       |       |       |
 
 ---
 ## Past Years' Puzzles
 
 ## 2024 - 2025 Monthly Puzzles
 * [May 2025](./Puzzles/2025-05/README.md)
-* [April 2025](./Puzzles/2025-04/README.md) - 1868
-* [March 2025](./Puzzles/2025-03/README.md) - 146
-* [February 2025](./Puzzles/2025-02/README.md) - 59
-* [January 2025](./Puzzles/2025-01/README.md) - 64394300519624
+* [April 2025](./Puzzles/2025-04/README.md) 
+* [March 2025](./Puzzles/2025-03/README.md) 
+* [February 2025](./Puzzles/2025-02/README.md) 
+* [January 2025](./Puzzles/2025-01/README.md) 
 * [December 2024](./Puzzles/2024-12/README.md)
-* [November 2024](./Puzzles/2024-11/README.md) - 1116
-* [October 2024](./Puzzles/2024-10/README.md) - 14383
-* [September 2024](./Puzzles/2024-09/README.md) - Guido van Rossum
-* [August 2024](./Puzzles/2024-08/README.md) - 502
+* [November 2024](./Puzzles/2024-11/README.md) 
+* [October 2024](./Puzzles/2024-10/README.md) 
+* [September 2024](./Puzzles/2024-09/README.md) 
+* [August 2024](./Puzzles/2024-08/README.md) 
 
 ## What to do
 When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
@@ -49,15 +50,15 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 ## 2023 - 2024 Monthly Puzzles
 
 * [May 2024](./Puzzles/2024-05/README.md)
-* [April 2024](./Puzzles/2024-04/README.md) - 68
-* [March 2024](./Puzzles/2024-03/README.md) - 13
-* [February 2024](./Puzzles/2024-02/README.md) - 854
-* [January 2024](./Puzzles/2024-01/README.md) - 24
-* [December 2023](./Puzzles/2023-12/README.md) N/A
-* [November 2023](./Puzzles/2023-11/README.md) - "on their feet"
-* [October 2023](./Puzzles/2023-10/README.md) - 188
-* [September 2023](./Puzzles/2023-09/README.md) - 747
-* [August 2023](./Puzzles/2023-08/README.md) - tattarrattat
+* [April 2024](./Puzzles/2024-04/README.md) 
+* [March 2024](./Puzzles/2024-03/README.md) 
+* [February 2024](./Puzzles/2024-02/README.md) 
+* [January 2024](./Puzzles/2024-01/README.md) 
+* [December 2023](./Puzzles/2023-12/README.md)
+* [November 2023](./Puzzles/2023-11/README.md) 
+* [October 2023](./Puzzles/2023-10/README.md) 
+* [September 2023](./Puzzles/2023-09/README.md) 
+* [August 2023](./Puzzles/2023-08/README.md) 
 
 
 
@@ -84,16 +85,16 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 
 ## 2022 - 2023 Monthly Puzzles
-* [May 2023](./Puzzles/2023-05/README.md) - 88
-* [April 2023](./Puzzles/2023-04/README.md) - "DATA"
-* [March 2023](./Puzzles/2023-03/README.md) - 49872
-* [February 2023](./Puzzles/2023-02/README.md) - Thomas Edison 
-* [January 2023](./Puzzles/2023-01/README.md) - 2023
-* [December 2022](./Puzzles/2022-12/README.md) - N/A
-* [November 2022](./Puzzles/2022-11/README.md) - 51
-* [October 2022](./Puzzles/2022-10/README.md) - [Solution](./Puzzles/2022-10/SOLUTION.md)
-* [September 2022](./Puzzles/2022-09/README.md) - [Solution](./Puzzles/2022-09/SOLUTION.md)
-* [August 2022](./Puzzles/2022-08/README.md) - [Solution](./Puzzles/2022-08/SOLUTION.md)
+* [May 2023](./Puzzles/2023-05/README.md) 
+* [April 2023](./Puzzles/2023-04/README.md) 
+* [March 2023](./Puzzles/2023-03/README.md) 
+* [February 2023](./Puzzles/2023-02/README.md) 
+* [January 2023](./Puzzles/2023-01/README.md) 
+* [December 2022](./Puzzles/2022-12/README.md) 
+* [November 2022](./Puzzles/2022-11/README.md) 
+* [October 2022](./Puzzles/2022-10/README.md) 
+* [September 2022](./Puzzles/2022-09/README.md) 
+* [August 2022](./Puzzles/2022-08/README.md) 
 
 ## Monthly Solvers 2022-2023
 
@@ -112,15 +113,15 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 ## 2021 - 2022 Monthly Puzzles
 * [May 2022](./Puzzles/2022-05/README.md)
-* [April 2022](./Puzzles/2022-04/README.md) - [Solution](./Puzzles/2022-04/SOLUTION.md)
-* [March 2022](./Puzzles/2022-03/README.md) - [Solution](./Puzzles/2022-03/SOLUTION.md)
-* [February 2022](./Puzzles/2022-02/README.md) - [Solution](./Puzzles/2022-02/SOLUTION.md)
-* [January 2022](./Puzzles/2022-01/README.md) - [Solution](./Puzzles/2022-01/SOLUTION.md)
-* [December 2021](./Puzzles/2021-12/README.md) - [Solution](./Puzzles/2021-12/SOLUTION.md)
-* [November 2021](./Puzzles/2021-11/README.md) - [Solution](./Puzzles/2021-11/SOLUTION.md)
-* [October 2021](./Puzzles/2021-10/README.md) - [Solution](./Puzzles/2021-10/SOLUTION.md)
-* [September 2021](./Puzzles/2021-09/README.md) - Solution will not be posted
-* [August 2021](./Puzzles/2021-08/README.md) - [Solution](./Puzzles/2021-08/SOLUTION.md)
+* [April 2022](./Puzzles/2022-04/README.md) 
+* [March 2022](./Puzzles/2022-03/README.md) 
+* [February 2022](./Puzzles/2022-02/README.md) 
+* [January 2022](./Puzzles/2022-01/README.md) 
+* [December 2021](./Puzzles/2021-12/README.md) 
+* [November 2021](./Puzzles/2021-11/README.md) 
+* [October 2021](./Puzzles/2021-10/README.md) 
+* [September 2021](./Puzzles/2021-09/README.md) 
+* [August 2021](./Puzzles/2021-08/README.md) 
 
 ## Monthly Solvers 2021-2022
 
@@ -138,13 +139,13 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 
 
 ## 2020 - 2021 Monthly Puzzles
-* [May 2021](./Puzzles/2021-05/README.md) - [Solution](./Puzzles/2021-05/SOLUTION.md)
-* [April 2021](./Puzzles/2021-04/README.md) - [Solution](./Puzzles/2021-04/SOLUTION.md)
-* [March 2021](./Puzzles/2021-03/README.md) - [Solution](./Puzzles/2021-03/SOLUTIONS.md)
-* [January 2021](./Puzzles/2021-01/README.md) - [Solution](./Puzzles/2021-01/SOLUTION.md)
-* [December 2020](./Puzzles/2020-12/README.md) - [Solution](./Puzzles/2020-12/SOLUTION.md)
-* [November 2020](./Puzzles/2020-11/README.md) - [Solution](./Puzzles/2020-11/SOLUTION.md)
-* [October 2020](./Puzzles/2020-10/README.md) - [Solution](./Puzzles/2020-10/SOLUTION.md)
+* [May 2021](./Puzzles/2021-05/README.md) 
+* [April 2021](./Puzzles/2021-04/README.md) 
+* [March 2021](./Puzzles/2021-03/README.md) 
+* [January 2021](./Puzzles/2021-01/README.md) 
+* [December 2020](./Puzzles/2020-12/README.md)
+* [November 2020](./Puzzles/2020-11/README.md) 
+* [October 2020](./Puzzles/2020-10/README.md) 
 
 
 ## Monthly Solvers 2020-2021
@@ -165,13 +166,13 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 ---
 
 ## 2019-2020 Puzzles
-* [March 2020](./Puzzles/2020-03/README.md) - Solution
-* [February 2020](./Puzzles/2020-02/README.md) - [Solution](./Puzzles/2020-02/SOLUTION.md)
-* [January 2020](./Puzzles/2020-01/README.md) - [Solution](./Puzzles/2020-01/SOLUTION.md)
-* [December 2019](./Puzzles/2019-12/README.md) - [Solution](./Puzzles/2019-12/SOLUTION.md)
-* [November 2019](./Puzzles/2019-11/README.md) - [Solution](./Puzzles/2019-11/SOLUTION.md)
-* [October 2019](./Puzzles/2019-10/README.md) - [Solution](./Puzzles/2019-10/SOLUTION.md)
-* [August/September 2019](./Puzzles/2019-09/README.md) - [Solution](./Puzzles/2019-09/SOLUTION.md)
+* [March 2020](./Puzzles/2020-03/README.md)
+* [February 2020](./Puzzles/2020-02/README.md) 
+* [January 2020](./Puzzles/2020-01/README.md) 
+* [December 2019](./Puzzles/2019-12/README.md) 
+* [November 2019](./Puzzles/2019-11/README.md) 
+* [October 2019](./Puzzles/2019-10/README.md) 
+* [August/September 2019](./Puzzles/2019-09/README.md) 
 
 
 ## Monthly Solvers 2019-2020
