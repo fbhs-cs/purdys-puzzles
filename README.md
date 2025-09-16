@@ -10,8 +10,9 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 |     Name         		 | 8/25  | 9/25  | 10/25 | 11/25 | 12/25 | 1/26  | 2/26  | 3/26  | 4/26  | 5/26  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
+|     Colton Hansen      |       |  X*   |       |       |       |       |       |       |       |       |
 |     Luke Ibanez        |  X*   |       |       |       |       |       |       |       |       |       |
-|     Anthony Underbrink |  X*   |       |       |       |       |       |       |       |       |       |
+|     Anthony Underbrink |  X*   |  X*   |       |       |       |       |       |       |       |       |
 
 ---
 ## Past Years' Puzzles

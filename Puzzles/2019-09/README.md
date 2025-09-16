@@ -16,7 +16,7 @@ KNCMUMMYMF
 Bring Mr. Purdy the message found at [here](2019_08_09_puzzle.txt)
 that was encoded with a key of 27.
 
-[Solution](SOLUTION.md)
+Solution: WELCOMEBACK
 
 ## Puzzle Solvers
 Devin Schwartz,
