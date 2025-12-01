@@ -3,6 +3,7 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2025 - 2026 Monthly Puzzles
+* [December 2025](./Puzzles/2025-12/README.md)
 * [November 2025](./Puzzles/2025-11/README.md) - 2992
 * [October 2025](./Puzzles/2025-10/README.md) - 21223
 * [September 2025](./Puzzles/2025-09/README.md) - September 15, 1997
