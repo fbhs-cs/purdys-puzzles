@@ -3,7 +3,7 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
 ## 2025 - 2026 Monthly Puzzles
-* [November 2025](./Puzzles/2025-11/README.md)
+* [November 2025](./Puzzles/2025-11/README.md) - 2992
 * [October 2025](./Puzzles/2025-10/README.md) - 21223
 * [September 2025](./Puzzles/2025-09/README.md) - September 15, 1997
 * [August 2025](./Puzzles/2025-08/README.md) - 23
@@ -13,9 +13,10 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 
 |     Name         		 | 8/25  | 9/25  | 10/25 | 11/25 | 12/25 | 1/26  | 2/26  | 3/26  | 4/26  | 5/26  |
 |:--               		 |:-:    |:-:    |:-:    |:-:    | :-:   |:-:    |:-:    |  :-:  | :-:   | :-:   |
+|     Duncan Casper      |       |  X*   |       |   X*  |       |       |       |       |       |       |
 |     Colton Hansen      |       |  X*   |       |       |       |       |       |       |       |       |
-|     Luke Ibanez        |  X*   |  X    |  X    |       |       |       |       |       |       |       |
-|     Anthony Underbrink |  X*   |  X*   |  X    |       |       |       |       |       |       |       |
+|     Luke Ibanez        |  X*   |  X*   |  X*   |   X*  |       |       |       |       |       |       |
+|     Anthony Underbrink |  X*   |  X*   |  X*   |   X*  |       |       |       |       |       |       |
 |     Olivia Zuo         |       |  X*   |       |       |       |       |       |       |       |       |
 
 ---
