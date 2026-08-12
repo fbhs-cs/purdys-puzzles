@@ -2,6 +2,15 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
 
+## 2026 - 2027 Monthly Puzzles
+* [August 2026](./Puzzles/2026-08/README.md)
+
+
+
+
+---
+## Past Years' Puzzles
+
 ## 2025 - 2026 Monthly Puzzles
 * [May 2026](./Puzzles/2026-05/README.md)
 * [April 2026](./Puzzles/2026-04/README.md) - 23
@@ -27,8 +36,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 |     Anthony Underbrink |  X*   |  X*   |  X*   |   X*  |       |   X*  |  X*   |  X*   | X*    | X     |
 |     Olivia Zuo         |       |  X*   |       |       |       |       |  X    |  X*   |       | X     |
 
----
-## Past Years' Puzzles
+
 
 ## 2024 - 2025 Monthly Puzzles
 * [May 2025](./Puzzles/2025-05/README.md)
