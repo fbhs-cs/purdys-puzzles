@@ -22,9 +22,10 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 |     Duncan Casper      |       |  X*   |       |   X*  |       |       |       |       |       |       |
 |     Colton Hansen      |       |  X*   |       |       |       |       |       |       |       |       |
 |     Luke Ibanez        |  X*   |  X*   |  X*   |   X*  |       |   X   |       |  X*   |       |       |
-|     Stephen Jin        |       |       |       |       |       |       |  X*   |       |       |       |
-|     Anthony Underbrink |  X*   |  X*   |  X*   |   X*  |       |   X*  |  X*   |  X*   | X*    |       |
-|     Olivia Zuo         |       |  X*   |       |       |       |       |  X    |  X*   |       |       |
+|     Stephen Jin        |       |       |       |       |       |       |  X*   |       |       | X     |
+|     Ethan Jordan       |       |       |       |       |       |       |       |       |       | X     |
+|     Anthony Underbrink |  X*   |  X*   |  X*   |   X*  |       |   X*  |  X*   |  X*   | X*    | X     |
+|     Olivia Zuo         |       |  X*   |       |       |       |       |  X    |  X*   |       | X     |
 
 ---
 ## Past Years' Puzzles
