@@ -1,12 +1,13 @@
 # Mr. Purdy's Monthly Puzzles
 
-This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended.
+This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended. 
 
 ## 2026 - 2027 Monthly Puzzles
 * [August 2026](./Puzzles/2026-08/README.md)
 
 
-
+## What to do
+When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.  You shouldn't use AI (though internet searching is allowed and probably required for many puzzles).  You should work independently and keep your solution to yourself.
 
 ---
 ## Past Years' Puzzles
@@ -50,8 +51,7 @@ This is a collection of the monthly puzzles that I put up on the chalk board out
 * [September 2024](./Puzzles/2024-09/README.md) 
 * [August 2024](./Puzzles/2024-08/README.md) 
 
-## What to do
-When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.net) or bring me (room 115) the solution along with an explanation of what you did to get that solution.  Please attach or link any program(s) you may have written to solve the problem.
+
 
 ## Monthly Solvers 2024-2025
 
