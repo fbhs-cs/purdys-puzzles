@@ -3,7 +3,8 @@
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended. 
 
 ## 2026 - 2027 Monthly Puzzles
-* [September 2026](./Puzzles/2026-09/README.md)
+* [OCTober 2026](./Puzzles/2026-10/README.md)
+* [September 2026](./Puzzles/2026-09/README.md) - Grace Hopper 9/9/1947
 * [August 2026](./Puzzles/2026-08/README.md) - 14
 
 ## What to do
@@ -16,7 +17,7 @@ When you think you have a solution, please e-mail me (cpurdy@flourbluffschools.n
 |     Luke Ibanez        |  X*     |       |       |       |       |     |       |       |       |       |
 |     Angela Li          |  X*     |       |       |       |       |     |       |       |       |       |
 |     Brooke Sandall     |  X*     |       |       |       |       |     |       |       |       |       |
-|     Anthony Underbrink |  X*     |       |       |       |       |     |       |       |       |       |
+|     Anthony Underbrink |  X*     |  X*    |       |       |       |     |       |       |       |       |
 
 
 ---
