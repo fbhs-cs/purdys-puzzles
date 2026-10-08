@@ -2,6 +2,9 @@
 
 This is a collection of the monthly puzzles that I put up on the chalk board outside of my classroom.  The puzzles are sorted by month.  Some solutions will be provided *after* the month in which the puzzle was posted has ended. 
 
+### New Puzzles Page
+Going forward, puzzles, results and solvers will be listed [here](https://sites.google.com/flourbluffschools.org/purdyspuzzles/home)
+
 ## 2026 - 2027 Monthly Puzzles
 * [OCTober 2026](./Puzzles/2026-10/README.md)
 * [September 2026](./Puzzles/2026-09/README.md) - Grace Hopper 9/9/1947
